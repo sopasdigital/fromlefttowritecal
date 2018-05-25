@@ -6,7 +6,7 @@ From Left to Write Calligraphy is a calligraphy blog that will eventually aim to
 
 ## Why create this site from scratch?
 
-I will be developing this site as I go along my development journey starting off by creating a personal blog and hopefully transform it into full-fledged platform wherein people can sign-up and find learning content, or create a space for them to market their services to potential clients.
+I will be developing this site using Gatsby + React as I go along my development journey starting off by creating a personal blog and hopefully transform it into full-fledged platform wherein people can sign-up and find learning content, or create a space for them to market their services to potential clients.
 
 ## Resources
 
@@ -18,9 +18,3 @@ I will be developing this site as I go along my development journey starting off
 #### Community Resources
 - [IAMPETH](https://www.iampeth.com/home) – International Association of Master Penmen, Engrossers, and Teachers of Handwriting. A really great place for lessons and other learning resources
 - [Flourish Forum](http://www.theflourishforum.com/) – A really great community where people exchange resources and give critiques and activities for you to learn different calligraphic styles.
-
-
-```
-
-## Running in development
-`gatsby develop`
